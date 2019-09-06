@@ -10,8 +10,8 @@ return [
     'repoUrl' => $repoUrl,
 
     // Algolia DocSearch credentials
-    'docsearchApiKey' => '',
-    'docsearchIndexName' => '',
+    'docsearchApiKey' => '4b4f0156a1bce73ed44722c1d4f3187a',
+    'docsearchIndexName' => 'geocoder-php',
 
     // navigation menu
     'navigation' => require_once('navigation.php'),
